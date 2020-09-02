@@ -1,0 +1,59 @@
+body {
+  background: #a3d0dd;
+  font-family: sans-serif, serif, monospace;
+  line-height: 1.5;
+  text-align: center;
+}  
+
+#title {
+  font-size: 3rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+#img-caption {
+  color: #488799;
+  font-size: 1.25rem;
+}
+
+#tribute-info {
+  background: #d2ebf3;
+}
+
+.further-reading {
+  background: #d2ebf3;
+  color: #488799;
+  font-size: 1.75rem;
+}
+
+ul {
+  display: block;
+  max-width: 375px;
+  list-style-type: disc;
+  text-align: left;
+  margin: auto;
+}
+
+a:link {
+  color: #488799;
+}
+
+a:visited {
+  color: #73aebe;
+}
+
+a:hover {
+  color: #73aebe;
+}
+
+a:active {
+  color: #488799;
+}
